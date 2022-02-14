@@ -4,7 +4,7 @@
   <div class='black-bg' v-if="모달창==true">
     <div class='white-bg'>
       <h4>상세 페이지</h4>
-      <p>상세 내용입니다.</p>
+      <p>상세 내용입니다. change</p>
       <button @click="close">닫기</button>
     </div>
   </div>
